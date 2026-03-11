@@ -1,6 +1,10 @@
-# git intoduction
+# software-development-git-intoduction
 
-Repo ini dibuat untuk Mata Kuliah ==Software Development==
+- **Nama Mata Kuliah:** Software Development  
+- **Nama Mahasiswa:** Yogi Ario Pratama  
+- **NPM:** 2313020004
 
-Nama: **Yogi Ario Pratama**
-NPM: *2313020004*
+## Deskripsi
+
+Repo ini digunakan untuk pengenalan Git serta manajemen versi dalam mata kuliah Software
+Development. Berisi tugas dan materi terkait penggunaan Git dan GitHub.
