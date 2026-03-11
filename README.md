@@ -7,4 +7,7 @@
 ## Deskripsi
 
 Repo ini digunakan untuk pengenalan Git serta manajemen versi dalam mata kuliah Software
+
 Development. Berisi tugas dan materi terkait penggunaan Git dan GitHub.
+
+Yang dimana
