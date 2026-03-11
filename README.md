@@ -10,5 +10,6 @@ Repo ini digunakan untuk pengenalan Git serta manajemen versi dalam mata kuliah 
 
 Development. Berisi tugas dan materi terkait penggunaan Git dan GitHub.
 
-Yang dimana akan saya gunakan untuk
+Yang dimana akan saya gunakan untuk menyimpan file proyek saya
+
 
